@@ -1,0 +1,105 @@
+@import url('https://fonts.googleapis.com/css2?family=PT+Sans:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+/*font-family: 'PT Sans', sans-serif;*/
+body {
+	background: #ffffff;
+}
+
+
+.form {
+	display: block;
+	margin: auto;
+	margin-top: 10%;
+	justify-content: center;
+	width: 394px;
+	height: 350px; 
+	border-radius: 15px;
+	background: #FFF;
+	box-shadow: 2px 3px 4px 0px rgba(0, 0, 0, 0.25);
+
+}
+
+#item {
+	
+	margin-top: 32px;
+	display: flex;
+	margin: auto;
+	margin-top: 20px;
+	justify-content: center;
+	
+}
+
+
+.form > h3 {
+	padding-top: 23px;
+	display: flex;
+	justify-content: center;
+	margin: 0 auto;
+	justify-content: center;
+
+	color: #000;
+	font-family: PT Sans;
+	font-size: 20px;
+	font-style: normal;
+	font-weight: 400;
+	line-height: normal; 
+
+	
+}
+
+.input-box {
+	width: 258px;
+	height: 47px; 
+	color: #ACA6A6;
+	font-family: PT Sans;
+	font-size: 6px;
+	font-style: normal;
+	font-weight: 400;
+	line-height: normal; 
+}
+
+
+.input-box input {
+	text-align: center;
+	border: 1px solid black;
+	width: 250px;
+	height: 45px; 
+	border-radius: 5px;
+	color: #000;
+	font-family: PT Sans;
+	font-size: 10px;
+	font-style: normal;
+	font-weight: 400;
+	line-height: normal; 
+}
+
+a {
+	padding-top: 9px;
+	margin: auto;
+	display: block;
+	color: #062EFF;
+	font-family: PT Sans;
+	font-size: 12px;
+	font-style: normal;
+	font-weight: 400;
+	line-height: normal; 
+	margin-left: 248px;
+}
+
+button{
+	width: 130px;
+	height: 30px; 
+	margin: auto;
+	text-align: center;
+	border-radius: 5px;
+	border: 1px solid #656565;
+	background: #FFF;
+	box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+
+	color: #000;
+font-family: PT Sans;
+font-size: 14px;
+font-style: normal;
+font-weight: 400;
+line-height: normal; 
+	
+}
